@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="
+        http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+    <!-- bean definitions here -->
+    <bean id="myBean" class="com.example.demo.GreetingService"/>
+
+    <bean id="emailNotificationService" class="com.example.LooseCoupling.EmailService"/>
+    <bean id="SMSNotificationService" class="com.example.LooseCoupling.SMsService"/>
+    <bean id="userService" class="com.example.LooseCoupling.UserServices">
+        <property name="emailNotificationService" ref="emailNotificationService"/>
+        <property name="smsNotificationService" ref="SMSNotificationService"/>
+    </bean>
+    <bean id="userServiceEmail" class="com.example.LooseCoupling.UserServices">
+        <property name="notificationService" ref="emailNotificationService"/>
+    </bean>
+ <bean id="userServiceSMS" class="com.example.LooseCoupling.UserServices">
+<!--   dependency injection from setters using property     -->
+        <property name="notificationService" ref="SMSNotificationService"/>
+<!--  dependency injection from constructor  using  construtor-arg   -->
+      <constructor-arg ref="SMSNotificationService" />
+    </bean>
+
+
+
+</beans>
